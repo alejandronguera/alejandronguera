@@ -3,7 +3,7 @@
 **`Desenvolvedora FullStack`**
 
 👋 Olá! Me chamo David Acosta, tenho 20 anos, sou natural de Carabobo 🇻🇪 e atualmente moro em Manaus 🇧🇷.
-💻 Estudante de Engenharia de Software, com bolsa 100% pelo ProUni.
+💻 Estudante de Engenharia de Software, pelo ProUni.
 🚀 Apaixonado por tecnologia, gosto de criar, desenvolver e pensar soluções práticas que façam a diferença para as pessoas e para meu time.
 🌍 Amante de novos idiomas — atualmente domino 2 e busco aprender um pouco mais todos os dias, tanto em tecnologia quanto em línguas, para me conectar melhor com o mundo ao meu redor.
 📚 Sempre em busca de evolução!
